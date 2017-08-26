@@ -1,0 +1,540 @@
+body { background-image: url("http://www.dreamtemplate.com/dreamcodes/bg_images/color/c2.jpg"); 
+}
+
+.master-container {
+  border-left:1px;
+  border-right:1px;
+  margin:0 auto;
+}
+
+.main-header {
+  background: white;
+  border-bottom: 3px solid #C0C0C0;
+}
+
+.header-content {
+  background: white;
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 60px;
+}
+
+.header-left {
+  width:50%;
+  float: left;
+}
+
+.index-nameplate {
+ height: 65px;
+ width: 280px;
+ position: relative;
+ bottom: 0px;
+ margin-top: 0
+}
+
+#FC {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background:#4aaaa5;
+  padding:15px;
+  color:white;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+.header-right {
+  width:50%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float:right;
+  display: inline;
+}
+
+ul li {
+  display:inline;
+  color: #726E6D;
+  border-right: 1px solid #C8C8C8;
+}
+
+li a {
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  padding: 30px;
+  color: #726E6D;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+.main-body{
+  margin:0 auto;
+}
+
+.content {
+  width:300px;
+  padding:0 30px 30px;
+  float:left;
+}
+
+.about {  
+  position:relative;
+  background: white;
+  width: 660px;
+  margin-top: 48px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 100px
+  border: 2px solid #707070;
+  padding: 19px;
+  height: 400px;
+  overflow: auto;
+}
+
+img.profilepic {
+  display: block;
+  display: inline-block;
+  width: 100px;
+  padding-left:255px;
+}
+
+#title {
+  background: white;
+  margin-top: -2px;
+  border-bottom: 2px solid #C0C0C0;
+  line-height: 24px;
+  font-weight: bold;
+  color: #C0C0C0;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+#right-content {
+  content 
+  width:300px;
+  padding:0 30px 30px;
+  float:right;
+}
+
+#contactme {    
+  background: white;
+  margin-top: -2px;
+  border-bottom: 2px solid #C0C0C0;
+  line-height: 24px;
+  font-weight: bold;
+  color: #C0C0C0;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+  }
+
+#written{
+  margin-top:15px;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+h1 {
+  background:white;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  padding:20px;
+  color:#4aaaa5;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+
+}
+
+#text1 {
+padding: 60px;
+line-height: 21px;
+font-size: 15px;
+font-weight: bold;
+letter-spacing: 2px;
+text-align: left;
+color:#726E6D;
+
+}
+
+.right-content {
+  float:right;
+  margin-right: -600px;
+}
+
+.connectme {
+  float: right;
+  background: white;
+  width: 185px;
+  position: relative;
+  margin-top: -440px;
+  margin-right: -728px;
+  border: 1px solid #707070;
+  padding: 20px;
+  height: auto;
+  overflow: auto;
+    
+}
+
+h2 {  
+  background:white;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  padding:10px;
+  color:#4aaaa5;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+.socialmedialinks ul {
+  list-style-type: none;
+  margin-right: 5px;
+  margin-top: 20px;
+  padding: 0;
+  overflow: hidden;
+  float:right;
+  display: inline;
+}
+
+.socialmedialinks ul li {
+  display:inline;
+  border-right: none;
+}
+
+.socialmedialinks li a {
+  display: inline-block;
+  text-align: center;
+  padding: 0px;
+  text-decoration: none;
+}
+
+.socialmedialinks i {
+  font-size: 30px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa {
+  color: white;
+  padding: 10px;
+  margin-right: 5px;
+  height: 30px;
+  width: 30px;
+  border-radius:5px;
+}
+
+.fa-github {
+  background: #333;
+}
+
+.fa-linkedin {
+  background: #117bb6;
+}
+
+.fa-stack-overflow {
+  background: #fda429;
+}
+
+.footer {
+  background-color: #565051;
+  border-top: 8px solid #4aaaa5;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+p {
+  font-weight: bold;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 45px;
+  color:#E5E4E2;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;}
+}
+
+img.portimage {
+  width: 100px;
+  height: auto;
+}
+
+.projectone {
+  padding: 10px;
+  margin-right: 5px;
+  width: 125px;
+  border-radius:5px;
+}
+
+.projecttwo {
+  padding: 10px;
+  margin-right: 5px;
+  width: 125px;
+  border-radius:5px;
+  float:right;
+}
+
+.projectthree {
+  padding: 10px;
+  margin-right: 5px;
+  width: 125px;
+  border-radius:5px;
+}
+
+.projectfour {
+  padding: 10px;
+  margin-right: 5px;
+  width: 125px;
+  border-radius:5px;
+  float:right;
+}
+
+.projectfive {
+  padding: 10px;
+  margin-right: 5px;
+  width: 125px;
+  border-radius:5px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* 1920x1080 screen */
+
+@media only screen and (min-width: 981px) and (max-width: 1800px) 
+{ 
+
+.connectme {
+    float: right;
+    background: white;
+    width: 185px;
+    position: relative;
+    margin-top: -440px;
+    margin-right: -250px;
+    border: 1px solid #707070;
+    padding: 20px;
+    height: auto;
+    overflow: auto;
+}
+
+}
+
+/* 980px screen */
+
+@media (max-width: 980px) {
+
+img.profilepic {
+    display: block;
+    display: inline-block;
+    width: 100px;
+    padding-left: 170px;
+}
+
+.about {
+    position: relative;
+    background: white;
+    width: 450px;
+    margin-top: 48px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-bottom: 100px border: 2px solid #707070;
+    padding: 19px;
+    height: 400px;
+    overflow: auto;
+}
+
+.connectme {
+    float: right;
+    background: white;
+    width: 185px;
+    position: relative;
+    margin-top: -440px;
+    margin-right: 108px;
+    border: 1px solid #707070;
+    padding: 20px;
+    height: auto;
+    overflow: auto;
+}
+
+}
+
+
+
+/* 768px screen */
+
+@media (max-width: 768px) {
+
+
+.main-header {
+  background: white;
+  border-bottom: 3px solid #C0C0C0;
+}
+
+.header-content {
+  background: white;
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 60px;
+}
+
+.header-left {
+  width:50%;
+  float: left;
+}
+
+.index-nameplate {
+ height: 65px;
+ width: 280px;
+ position: relative;
+ bottom: 0px;
+ margin-top: 0
+}
+
+#FC {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background:#4aaaa5;
+  padding:15px;
+  color:white;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+
+
+.header-right {
+  width: 30%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float:right;
+  display: inline;
+}
+
+ul li {
+  display:inline;
+  color: #726E6D;
+  border-right: 1px solid #C8C8C8;
+}
+
+li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px;
+  color: #726E6D;
+  font-size: 70%;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+.about {
+    position: relative;
+    background: white;
+    width: 430px;
+    margin-top: 11px;
+    margin-right: 0%;
+    margin-left: -85%;
+    padding-bottom: 100px border: 2px solid #707070;
+    padding: 30px;
+    height: 372px;
+    overflow: auto;
+}
+
+.connectme {
+    float: left;
+    background: white;
+    position: relative;
+    margin-right: 661px;
+    margin-top: 0px;
+    border: 1px solid #707070;
+    padding: 0px;
+    height: auto;
+    width: 500px;
+    overflow: auto;
+}
+
+}
+
+
+/* 640px screen */
+
+@media (max-width: 640px) {
+
+#FC {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background:#4aaaa5;
+  padding:15px;
+  color:white;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+
+.header-right {
+  width:70%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float:right;
+  position: relative;
+  margin-left: 20px;
+  display: inline;
+}
+
+ul li {
+  display:inline;
+  color: #726E6D;
+  border-right: 1px solid #C8C8C8;
+}
+
+li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px;
+  color: #726E6D;
+  font-size: 100%;
+  font-family: Jura, 'Serif', sans-serif, Times, Times New Roman;
+}
+
+.about {
+    position: relative;
+    background: white;
+    width: 430px;
+    margin-top: 2px;
+    margin-right: 0%;
+    margin-left: -1%;
+    padding-bottom: 100px border: 2px solid #707070;
+    padding: 30px;
+    height: 372px;
+    overflow: auto;
+
+}
+.connectme {
+    float: left;
+    background: white;
+    position: relative;
+    margin-right: 550px;
+    margin-top: 0px;
+    border: 1px solid #707070;
+    padding: 0px;
+    height: auto;
+    overflow: auto;
+    width: 200px;
+}
+
+
+}
+
+
